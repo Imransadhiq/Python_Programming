@@ -1,0 +1,19 @@
+Python is a High Level, Interpreted Programming Language. [High Level-programming language that is designed to be easily understood by humans.   Interpreted - Program is executed without any compilation step]
+After Python2. The Python3 is the latest updated version
+
+Datatypes and Variables:
+
+Datatypes: int, float, char, boolean, str, list, tuple, set and Dict.
+int represents an integer [example integer could be .....-3, -2, -1, 0, 1, 2, 3,.....]
+float represents the decimal values [where as 2.5, 5.0, 6.7, 0.0, -26.5, -64.1, 143.0]
+string represents the characters and numbers it can be defined using single quotes '___' or in double quotes "__". [ "cat", "Dog", "123", 'ROBO 2.O', 'Books'....]
+List[] - a list is a built-in data type that represents an ordered and mutable collection of elements. You can perform various operations on lists, such as adding, removing, and modifying elements 
+it can be defined under [num, float, "str", Bool].     (example [1, 2, 3, 'apple', 'orange', True] )
+Tuples these are similar to the lists but tuples () are immptable (once created it elements cannot be modified) defined as (num, float, "str", Bool). [example  (1, 2, 'apple', 'orange', True)]
+dictionary - dict{} is a built-in data type that represents a collection of key-value pairs. [example {'name': 'John', 'age': 25, 'city': 'New York'}]
+
+variables: Variables are used to store / assign values [Example: Num = 10, Here, 10 value is stored / assigned to the variable Num ]
+
+Print Statement:
+Print("Hello World")
+Output:Hello World
